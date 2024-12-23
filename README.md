@@ -1,5 +1,4 @@
 # TypeScript Module Resolution Examples <!-- omit from toc -->
-
 A set of example projects exploring TypeScript module resolution with various settings and situations.
 
 Table of contents:
